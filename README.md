@@ -246,16 +246,16 @@ Próximos Passos para Produção:
 ### Passos para Instalação
 
 1. **Clone ou baixe o projeto:**
-   ```bash
+   
    git clone https://github.com/Marceloelyas/rio-park-vallet.git
 
 
-1. Instale em um servidor web:
+# 1. Instale em um servidor web:
    · Coloque todos os arquivos na pasta raiz do seu servidor web
-2. Configure os ícones (opcional):
+# 2. Configure os ícones (opcional):
    · Adicione os ícones nas dimensões corretas na pasta icons/
    · Gere ícones usando ferramentas como RealFaviconGenerator
-3. Acesse o sistema:
+# 3. Acesse o sistema:
    · Abra login.html no navegador
    · Use as credenciais padrão:
      · Usuário: admin
@@ -339,16 +339,15 @@ Para suporte, entre em contato:
 · Telefone: (21) 99999-9999
 · Site: www.rioparkvallet.com.br
 
----
+
 
 Versão: 1.0.0
 Última Atualização: ${new Date().toLocaleDateString('pt-BR')}
 Desenvolvido por: Equipe Rio Park Vallet
 
-```
 
 ## 15. `package.json` (Opcional para desenvolvimento)
-```json
+
 {
   "name": "rio-park-vallet",
   "version": "1.0.0",
@@ -375,7 +374,6 @@ Desenvolvido por: Equipe Rio Park Vallet
     "live-server": "^1.2.2"
   }
 }
-```
 
 Instruções Adicionais:
 
