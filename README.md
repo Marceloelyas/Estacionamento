@@ -221,14 +221,14 @@ Para executar em desenvolvimento:
 
 # Características do Sistema:
 
-1. ** Totalmente Responsivo ** - Funciona em dispositivos móveis, tablets e desktops
-2. ** Funciona Offline ** - Dados são armazenados localmente
-3. ** Instalável ** - Pode ser instalado como um app nativo
-4. ** Seguro ** - Sistema de autenticação com diferentes perfis
-5. ** Robusto ** - Backup e restauração de dados
-6. ** Intuitivo ** - Interface moderna e fácil de usar
+1. **Totalmente Responsivo** - Funciona em dispositivos móveis, tablets e desktops
+2. **Funciona Offline** - Dados são armazenados localmente
+3. **Instalável** - Pode ser instalado como um app nativo
+4. **Seguro** - Sistema de autenticação com diferentes perfis
+5. **Robusto** - Backup e restauração de dados
+6. **Intuitivo** - Interface moderna e fácil de usar
 
-Próximos Passos para Produção:
+## Próximos Passos para Produção:
 
 1. Configure um servidor HTTPS
 2. Atualize as URLs no service-worker.js
@@ -289,6 +289,7 @@ O sistema vem pré-configurado com dois usuários:
    · Usuário: admin
    · Senha: admin123
    · Permissões: Total
+
 2. Operador
    · Usuário: operador
    · Senha: operador123
@@ -336,14 +337,14 @@ Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue.
 Para suporte, entre em contato:
 
 · Email: suporte@rioparkvallet.com
-· Telefone: (21) 99999-9999
+· Telefone: (11) 99999-9999
 · Site: www.rioparkvallet.com.br
 
 
 
 Versão: 1.0.0
 Última Atualização: ${new Date().toLocaleDateString('pt-BR')}
-Desenvolvido por: Equipe Rio Park Vallet
+Desenvolvido por: 
 
 
 ## 15. `package.json` (Opcional para desenvolvimento)
