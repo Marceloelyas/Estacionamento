@@ -56,7 +56,27 @@ O **Rio Park Vallet** é um sistema web completo para gerenciamento de estaciona
 - **LocalStorage** - Armazenamento local
 
 ## 📁 Estrutura do Projeto
-Projeto Rio Park Vallet - Correção Completa
+
+rio-park-vallet/
+├── index.html              # Página principal do sistema
+├── login.html              # Página de login
+├── manifest.json           # Configuração do PWA
+├── service-worker.js       # Service Worker para offline
+├── css/
+│   ├── style.css          # Estilos principais
+│   ├── auth.css           # Estilos da autenticação
+│   └── responsive.css     # Estilos responsivos
+├── js/
+│   ├── app.js             # Lógica principal da aplicação
+│   ├── auth.js            # Sistema de autenticação
+│   ├── charts.js          # Configuração dos gráficos
+│   ├── pwa.js             # Funcionalidades PWA
+│   ├── reports.js         # Geração de relatórios
+│   └── init.js            # Inicialização do sistema
+├── icons/                 # Ícones para PWA (opcional)
+│   ├── icon-192.png
+│   └── icon-512.png
+└── README.md             # Documentação
 
 
 1. Instale em um servidor web:
