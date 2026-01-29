@@ -1,10 +1,10 @@
 # Rio Branco Park's Vallet 
 
-# Rio Park Vallet - Sistema de Gerenciamento de Estacionamento
+# Rio Branco Park's Vallet - Sistema de Gerenciamento de Estacionamento
 
 ## 📋 Sobre o Projeto
 
-O **Rio Park Vallet** é um sistema web completo para gerenciamento de estacionamentos vallet. Desenvolvido como uma Progressive Web App (PWA), ele funciona tanto online quanto offline e pode ser instalado como um aplicativo nativo em dispositivos móveis e desktops.
+O **Rio Branco Park's Vallet** é um sistema web completo para gerenciamento de estacionamentos vallet. Desenvolvido como uma Progressive Web App (PWA), ele funciona tanto online quanto offline e pode ser instalado como um aplicativo nativo em dispositivos móveis e desktops.
 
 ## ✨ Funcionalidades
 
@@ -90,7 +90,7 @@ rio-park-vallet/
      · Usuário: admin
      · Senha: admin123
 
-📱 Instalação como PWA
+## 📱 Instalação como PWA
 
 No Desktop (Chrome/Edge):
 
@@ -98,19 +98,19 @@ No Desktop (Chrome/Edge):
 2. Clique no ícone de instalação (canto superior direito)
 3. Siga as instruções para instalar
 
-No Mobile (Android/Chrome):
+# No Mobile (Android/Chrome):
 
 1. Acesse o sistema no Chrome
 2. No menu, selecione "Adicionar à tela inicial"
 3. Confirme a instalação
 
-No Mobile (iOS/Safari):
+# No Mobile (iOS/Safari):
 
 1. Acesse o sistema no Safari
 2. Clique no ícone de compartilhar
 3. Selecione "Adicionar à tela inicial"
 
-👥 Usuários Padrão
+## 👥 Usuários Padrão
 
 O sistema vem pré-configurado com dois usuários:
 
@@ -123,20 +123,20 @@ O sistema vem pré-configurado com dois usuários:
    · Senha: operador123
    · Permissões: Operacionais
 
-💾 Backup e Restauração
+## 💾 Backup e Restauração
 
-Criar Backup:
+# Criar Backup:
 
 1. Vá para Configurações > Sistema
 2. Clique em "Fazer Backup"
 3. Um arquivo JSON será baixado
 
-Restaurar Backup:
+# Restaurar Backup:
 
 1. Arraste o arquivo de backup para a tela do sistema
 2. Ou use a opção de restauração nas Configurações
 
-⌨️ Atalhos do Teclado
+## ⌨️ Atalhos do Teclado
 
 · Alt + D - Dashboard
 · Alt + E - Estacionamento
@@ -144,15 +144,15 @@ Restaurar Backup:
 · Alt + L - Logout
 · Escape - Fecha modais
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🐛 Reportar Problemas
+## 🐛 Reportar Problemas
 
 Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue.
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 
 1. Faça um Fork do projeto
 2. Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
@@ -160,7 +160,7 @@ Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue.
 4. Push para a branch (git push origin feature/AmazingFeature)
 5. Abra um Pull Request
 
-📞 Suporte
+## 📞 Suporte
 
 Para suporte, entre em contato:
 
@@ -172,38 +172,7 @@ Para suporte, entre em contato:
 
 Versão: 1.0.0
 Última Atualização: ${new Date().toLocaleDateString('pt-BR')}
-Desenvolvido por: Equipe Rio Park Vallet
-
-
-## 15. `package.json` (Opcional para desenvolvimento)
-
-{
-  "name": "rio-park-vallet",
-  "version": "1.0.0",
-  "description": "Sistema de gerenciamento de estacionamento vallet",
-  "main": "index.html",
-  "scripts": {
-    "start": "live-server --port=8080 --host=localhost",
-    "build": "echo 'Build não necessário para projeto estático'",
-    "test": "echo 'Testes não configurados'",
-    "deploy": "echo 'Configure seu comando de deploy'"
-  },
-  "keywords": [
-    "parking",
-    "vallet",
-    "management",
-    "pwa",
-    "javascript",
-    "css",
-    "html"
-  ],
-  "author": "Rio Park Vallet Team",
-  "license": "MIT",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
-}
-
+Desenvolvido por: Sayle Tecnologia.
 
 ## Instruções Adicionais:
 
@@ -213,7 +182,7 @@ Desenvolvido por: Equipe Rio Park Vallet
 2. Salve-as como icon-192.png e icon-512.png
 3. Coloque na pasta icons/
 
-Para executar em desenvolvimento:
+# Para executar em desenvolvimento:
 
 1. Instale Node.js
 2. Instale o live-server: npm install -g live-server
@@ -239,11 +208,11 @@ Para executar em desenvolvimento:
 
 ## 🛠️ Instalação e Configuração
 
-### Pré-requisitos
+## Pré-requisitos
 - Navegador moderno (Chrome 70+, Firefox 65+, Safari 12+)
 - Servidor web para desenvolvimento (Apache, Nginx, ou Live Server do VSCode)
 
-### Passos para Instalação
+## Passos para Instalação
 
 1. **Clone ou baixe o projeto:**
    
@@ -261,54 +230,54 @@ Para executar em desenvolvimento:
      · Usuário: admin
      · Senha: admin123
 
-📱 Instalação como PWA
+## 📱 Instalação como PWA
 
-No Desktop (Chrome/Edge):
+# No Desktop (Chrome/Edge):
 
 1. Acesse o sistema no navegador
 2. Clique no ícone de instalação (canto superior direito)
 3. Siga as instruções para instalar
 
-No Mobile (Android/Chrome):
+# No Mobile (Android/Chrome):
 
 1. Acesse o sistema no Chrome
 2. No menu, selecione "Adicionar à tela inicial"
 3. Confirme a instalação
 
-No Mobile (iOS/Safari):
+# No Mobile (iOS/Safari):
 
 1. Acesse o sistema no Safari
 2. Clique no ícone de compartilhar
 3. Selecione "Adicionar à tela inicial"
 
-👥 Usuários Padrão
+## 👥 Usuários Padrão
 
-O sistema vem pré-configurado com dois usuários:
+# O sistema vem pré-configurado com dois usuários:
 
 1. Administrador
-   · Usuário: admin
-   · Senha: admin123
-   · Permissões: Total
+   · Usuário: *admin*
+   · Senha: *admin123*
+   · Permissões: *Total*
 
 2. Operador
    · Usuário: operador
    · Senha: operador123
    · Permissões: Operacionais
 
-💾 Backup e Restauração
+## 💾 Backup e Restauração
 
-Criar Backup:
+# Criar Backup:
 
 1. Vá para Configurações > Sistema
 2. Clique em "Fazer Backup"
 3. Um arquivo JSON será baixado
 
-Restaurar Backup:
+# Restaurar Backup:
 
 1. Arraste o arquivo de backup para a tela do sistema
 2. Ou use a opção de restauração nas Configurações
 
-⌨️ Atalhos do Teclado
+## ⌨️ Atalhos do Teclado
 
 · Alt + D - Dashboard
 · Alt + E - Estacionamento
@@ -316,15 +285,15 @@ Restaurar Backup:
 · Alt + L - Logout
 · Escape - Fecha modais
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🐛 Reportar Problemas
+## 🐛 Reportar Problemas
 
 Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue.
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 
 1. Faça um Fork do projeto
 2. Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
@@ -332,7 +301,7 @@ Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue.
 4. Push para a branch (git push origin feature/AmazingFeature)
 5. Abra um Pull Request
 
-📞 Suporte
+## 📞 Suporte
 
 Para suporte, entre em contato:
 
@@ -340,43 +309,11 @@ Para suporte, entre em contato:
 · Telefone: (11) 99999-9999
 · Site: www.rioparkvallet.com.br
 
-
-
 Versão: 1.0.0
 Última Atualização: ${new Date().toLocaleDateString('pt-BR')}
-Desenvolvido por: 
+Desenvolvido por: Sayle Tecnologia.
 
-
-## 15. `package.json` (Opcional para desenvolvimento)
-
-{
-  "name": "rio-park-vallet",
-  "version": "1.0.0",
-  "description": "Sistema de gerenciamento de estacionamento vallet",
-  "main": "index.html",
-  "scripts": {
-    "start": "live-server --port=8080 --host=localhost",
-    "build": "echo 'Build não necessário para projeto estático'",
-    "test": "echo 'Testes não configurados'",
-    "deploy": "echo 'Configure seu comando de deploy'"
-  },
-  "keywords": [
-    "parking",
-    "vallet",
-    "management",
-    "pwa",
-    "javascript",
-    "css",
-    "html"
-  ],
-  "author": "Rio Park Vallet Team",
-  "license": "MIT",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
-}
-
-Instruções Adicionais:
+## Instruções Adicionais:
 
 Para criar os ícones PWA (opcional):
 
@@ -384,13 +321,13 @@ Para criar os ícones PWA (opcional):
 2. Salve-as como icon-192.png e icon-512.png
 3. Coloque na pasta icons/
 
-Para executar em desenvolvimento:
+# Para executar em desenvolvimento:
 
 1. Instale Node.js
 2. Instale o live-server: npm install -g live-server
 3. Execute: live-server --port=8080
 
-Características do Sistema:
+# Características do Sistema:
 
 1. Totalmente Responsivo - Funciona em dispositivos móveis, tablets e desktops
 2. Funciona Offline - Dados são armazenados localmente
@@ -399,7 +336,7 @@ Características do Sistema:
 5. Robusto - Backup e restauração de dados
 6. Intuitivo - Interface moderna e fácil de usar
 
-Próximos Passos para Produção:
+# Próximos Passos para Produção:
 
 1. Configure um servidor HTTPS
 2. Atualize as URLs no service-worker.js
